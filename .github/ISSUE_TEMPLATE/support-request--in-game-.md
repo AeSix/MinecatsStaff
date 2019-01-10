@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Follow the Who-What-When-Where-Why-How-Suggestion paradigm.  Make sure your request specifies exactly each of the Ws.
+Follow the Who-What-When-Where-Why-How-Suggestion paradigm.  Make sure your request specifies exactly each of the Ws.  Add your issue summar in the title AFTER "[GAME]" 
 
 This is for issues NOT requiring real-time assistance.  Do not report other players behaviors, chat, or anything that should be taken care of *right now*!  This should be handled with a request in-game from staff.  Specifically in this order, if each fails:
 1) identify and talk to any staff on the server (use /help channel)
@@ -17,23 +17,21 @@ This is for issues NOT requiring real-time assistance.  Do not report other play
 
 For ALL other in-game related issues, fill out the form and attach any images helpful to communicating the issue. 
 
-Who) Your IGN:
+##Who) Your IGN:
 
-What) A summary of your issue:
+##What) A summary of your issue:
 
-When) Eastern US Date & time of (first) occurence:
+##When) Eastern US Date & time of (first) occurence:
 
-Where) Be Specific:
-   Server:
-   World:
-   Location (coordinates / plot location):
+##Where) Be Specific:
+   1. Server:
+   2. World:
+   3. Location (coordinates / plot location):
 
-Why) Explain why this is an issue:
+##Why) Explain why this is an issue:
 
-How) What happened to cause this issue:
+##How) What happened to cause this issue:
 
-Suggestion) What can we do to resolve or prevent this issue in the future, if possible:
+#Suggestion) What can we do to resolve or prevent this issue in the future, if possible:
 
-
-
-Notes) Say anything else you may not have been able to say above:
+#Notes) Say anything else you may not have been able to say above:
